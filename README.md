@@ -22,7 +22,6 @@ To configure **Supabase** and **Powersync** in your project, youll need to setup
 -  `VITE_SUPABASE_ANON_KEY`: The anonymous key for your Supabase project.
 -  `VITE_SUPABASE_URL`: The URL for your Supabase instance.
 -  `VITE_POWERSYNC_URL`: The URL of your Powersync server.
--  `VITE_POWERSYNC_TOKEN`: The authentication token for Powersync.
 
 For detailed instructions, visit the [Powersync + Supabase Integrations guide](https://docs.powersync.com/integration-guides/supabase-+-powersync) to learn how to set up and configure your Powersync instance and supabase database.
 
@@ -32,10 +31,9 @@ For detailed instructions, visit the [Powersync + Supabase Integrations guide](h
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_SUPABASE_URL=https://your-supabase-url.supabase.co
 VITE_POWERSYNC_URL=https://your-powersync-url.com
-VITE_POWERSYNC_TOKEN=your_powersync_token
 ```
 
-Ensure you replace the placeholders (`your_supabase_anon_key`, `your-supabase-url`, `your-powersync-url`, `your_powersync_token`) with your actual values from the Supabase and Powersync setups.
+Ensure you replace the placeholders (`your_supabase_anon_key`, `your-supabase-url`, `your-powersync-url`) with your actual values from the Supabase and Powersync setups.
 
 ## Development
 
