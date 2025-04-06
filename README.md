@@ -79,6 +79,7 @@ This template comes pre-configured with:
 -  [**Tanstack Router**](https://github.com/TanStack/router)
 -  [**Supabase**](https://github.com/supabase/supabase)
 -  [**Powersync**](https://github.com/PowerSync/web)
+-  and a few others.
 
 ## Customization
 
