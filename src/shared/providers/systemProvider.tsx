@@ -1,5 +1,5 @@
 import { PowerSyncContext } from "@powersync/react";
-import { PowerSyncDatabase } from "@powersync/web";
+import { PowerSyncDatabase, SyncStreamConnectionMethod } from "@powersync/web";
 import { SupabaseConnector } from "../lib/supabaseConnector";
 import { createContext, ReactNode, Suspense, useContext, useEffect, useState } from "react";
 import BackendConnector from "../lib/backendConnector";
