@@ -4,18 +4,7 @@ This repository is a template for building **desktop** and **mobile** applicatio
 
 This template includes all the necessary setup for a modern full-stack application, with **Tauri** for desktop apps, **Powersync** for real-time syncing, **Supabase** for backend services, and **Tanstack Router** for routing. It also includes **Tailwind CSS** for utility-first styling.
 
-## Features:
-
--  **Tauri** for building native desktop applications.
--  **Powersync** for real-time data syncing between devices.
--  **Supabase** for your backend needs (auth, database, storage).
--  **Tanstack Router** for declarative routing in React.
--  **Vite** for fast and efficient build tooling.
--  **Tailwind CSS** for modern, utility-first styling.
--  **React** for building the UI components.
--  **TypeScript** for type safety.
-
-## Prerequisites
+## Getting started
 
 To configure **Supabase** and **Powersync** in your project, youll need to setup a supabase database, and a powersync instance, and also add the following environment variables to your `.env` file.
 
